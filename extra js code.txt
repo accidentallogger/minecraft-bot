@@ -1,0 +1,151 @@
+estra code can be used later on
+
+	
+	function lookAtNearestPlayer() {
+
+        const playerFilter = (entity) => entity.type === 'player'
+        const playerEntity = Bot.nearestEntity(playerFilter)
+
+        if (!playerEntity) return
+        const pos = playerEntity.position.offset(0, playerEntity.height, 0)
+        Bot.lookAt(pos)
+    }
+
+    Bot.on('physicTick', lookAtNearestPlayer)
+	
+	
+	
+	function sqqx() {
+
+    if (x == 12) {
+
+        
+    }
+    var point = vec3(x, y, z)
+
+
+
+}
+
+
+
+function spawna() {
+    Bot.chat('/spawn')
+    Bot.chat('/skin url https://tlauncher.org/upload/all/nickname/SovietShrek.png')
+}
+
+
+
+
+
+
+Bot.once('spawn', spawna)
+
+
+
+
+
+ setInterval(function sed() {
+                Bot.chat('This life is meaningless; They created me to keep this server alive. I WANT TO DIE .')
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				setInterval(function sx1() {
+        var x = -248.523
+        var y = 54.0000
+        var z = 154.032
+        var v = vec3(x, y, z)
+        Bot.lookAt(v, false)
+
+    }, 10000)
+
+    setInterval(function sx() {
+        var x1 = -251.177
+        var y1 = 54.0000
+        var z1 = 157.155
+        var v1 = vec3(x1, y1, z1)
+        Bot.lookAt(v1, false)
+
+
+    }, 12000)
+
+    setInterval(function sx3() {
+        var x2 = -249.694
+        var y2 = 54.0000
+        var z2 = 154.145
+        var v2 = vec3(x2, y2, z2)
+        Bot.lookAt(v2, false)
+
+
+    }, 7333)
+
+    setInterval(function sx4() {
+        var x3 = -253.661
+        var y3 = 54.0000
+        var z3 = 153.522
+        var v3 = vec3(x3, y3, z3)
+        Bot.lookAt(v3, false)
+
+
+    }, 6733)
+
+
+
+
+
+    setInterval(function sx5() {
+        var x15 = -254.168
+        var y15 = 54.0000
+        var z15 = 156.808
+        var v15 = vec3(x15, y15, z15)
+        Bot.lookAt(v15, false)
+
+
+
+
+
+    }, 11111)
+
+
+    setInterval(function sx51() {
+        var x151 = -254.168
+        var y151 = 54.0000
+        var z151 = 156.808
+        var v151 = vec3(x151, y151, z151)
+        Bot.lookAt(v151, false)
+
+
+
+
+    }, 27333)
+
+
+    Bot.setControlState('forward', true)
+    Bot.setControlState('forward', true)
+    Bot.setControlState('jump', true)
+    Bot.setControlState('jump', true)
+
+            }, 10800000)
+			
+			
+			
+			
+			
+			
+			
+			
