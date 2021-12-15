@@ -1,2 +1,2 @@
 # minecraft-bot
-minecraft bot made using mine js library
+minecraft bot made using mineflayer js library
