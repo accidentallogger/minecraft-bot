@@ -45,7 +45,7 @@ Bot.on('spawn', runslave)
 
 function spawna() {
 
-    Bot.chat('/skin url https://tlauncher.org/upload/all/nickname/SovietShrek.png')
+    Bot.chat('i just spawned.')
 }
 
 Bot.once('spawn', spawna)
